@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+node_modules/
+bower_components/
+.pyc
+__pycache__
+db.sqlite3
+tags
